@@ -173,11 +173,11 @@ const patio = {
 // Characters Collection
 const charactersArray = [mrGreen, drOrchid, profPlum, missScarlet, mrsPeacock, mrMustard];
 
-// Rooms Collection
-const roomsArray = [rope, knife, candlestick, dumbbell, poison, axe, bat, trophy, pistol];
-
 // Weapons Collection
-const weaponsArray = [diningRoom, conservatory, kitchen, study, library, billiardRoom, lounge, ballRoom, hall, spa, livingRoom, observatory, theater, guestHouse, patio];
+const weaponsArray = [rope, knife, candlestick, dumbbell, poison, axe, bat, trophy, pistol];
+
+// Rooms Collection
+const roomsArray = [diningRoom, conservatory, kitchen, study, library, billiardRoom, lounge, ballRoom, hall, spa, livingRoom, observatory, theater, guestHouse, patio];
 
 
 function randomSelector (arr) {
